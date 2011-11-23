@@ -22,3 +22,4 @@ Path
 Software
 Update
 Identity
+Client

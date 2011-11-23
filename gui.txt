@@ -1,7 +1,7 @@
 About
 License
 Settings
-Control panel
+Control Panel
 Folder
 Directory
 Browse
@@ -13,6 +13,16 @@ Cancel
 Help
 Advanced
 Close
+Apply
+Reset
+Yes
+No
+Ignore
+Rename
+Size
+Name
+Delete
+Drive
 Failed
 New
 Open
@@ -41,3 +51,9 @@ Tools
 Folder
 View
 Organize
+Plugin
+Add-on
+Tab
+History
+Navigate
+Cookie

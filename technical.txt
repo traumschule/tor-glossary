@@ -14,4 +14,9 @@ Key
 Email provider
 Internet Service Provider
 ISP
+Transparent Proxy
 Proxy
+Extension
+Handshake
+Authenticate
+Port
