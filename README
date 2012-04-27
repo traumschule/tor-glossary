@@ -1,5 +1,12 @@
-*Overview*
-Tor Glossary is a glossary used primarily for translations regarding The Tor Project.
-This glossary contains technical, general, gui and tor specific terms as well as names.
+The Tor Glossary is a glossary used primarily when translating software
+and documentation for the Tor Project. This glossary contains technical,
+general, gui and Tor specific terms as well as names. This glossary can
+also be used for a more consistent use of technical terms in the source
+language (English).
 
-This glossary can also be used for a more consistent use of terms in the source language (English)
+Translators will be able to access this glossary from inside Transifex,
+when working on a resource. There is no need to clone this repository or
+keep the glossary list open while translating.
+
+The work on the Tor Glossary was initially started by Shondoit Walker on
+https://github.com/Shondoit/torglossary

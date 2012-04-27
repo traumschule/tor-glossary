@@ -1,0 +1,124 @@
+Traffic
+Network
+Security
+Anonymize
+Connection
+Connect
+Internet
+Control Password
+Password
+User manual
+Email
+Unpack
+Install
+Download
+Censored
+Recommend
+Cookie
+Application
+Program
+Location
+Path
+Software
+Update
+Identity
+Client
+About
+License
+Settings
+Control Panel
+Folder
+Directory
+Browse
+OK
+File
+Language
+Save
+Cancel
+Help
+Advanced
+Close
+Apply
+Reset
+Yes
+No
+Ignore
+Rename
+Size
+Name
+Delete
+Drive
+Failed
+New
+Open
+Back
+General
+Home
+Find
+Forward
+Quit
+Exit
+Search
+Debug
+Info
+Notice
+Warning
+Error
+Unknown
+View
+Status
+Clear
+Hide
+Log
+My Computer
+Computer
+Tools
+Folder
+View
+Organize
+Plugin
+Add-on
+Tab
+History
+Navigate
+Cookie
+Tor
+Tor Browser Bundle
+TBB
+Vidalia
+Torbutton
+Executable
+Stream
+IP address
+Address
+Server
+Service
+Package
+Archive
+Process
+Encryption
+Fingerprint
+Signature
+Key
+Email provider
+Internet Service Provider
+ISP
+Transparent Proxy
+Proxy
+Extension
+Handshake
+Authenticate
+Port
+Relay
+Exit Relay
+Exit Enclave
+Bridge
+Guard
+Circuit
+Consensus
+Control Port
+Control
+Directory Authority
+Torify
+Hidden Service
+Onion Address

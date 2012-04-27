@@ -1,6 +1,0 @@
-Tor
-Tor Browser Bundle
-TBB
-Vidalia
-Torbutton
-
