@@ -1,124 +1,115 @@
-Traffic
-Network
-Security
-Anonymize
-Connection
-Connect
-Internet
-Control Password
-Password
-User manual
-Email
-Unpack
-Install
-Download
-Censored
-Recommend
-Cookie
-Application
-Program
-Location
-Path
-Software
-Update
-Identity
-Client
 About
-License
-Settings
-Control Panel
-Folder
-Directory
-Browse
-OK
-File
-Language
-Save
-Cancel
-Help
+Add-on
+Address
 Advanced
-Close
+Anonymize
+Application
 Apply
-Reset
-Yes
-No
-Ignore
-Rename
-Size
-Name
-Delete
-Drive
-Failed
-New
-Open
+Archive
+Authenticate
 Back
-General
-Home
-Find
-Forward
-Quit
-Exit
-Search
-Debug
-Info
-Notice
-Warning
-Error
-Unknown
-View
-Status
+Bridge
+Browse
+Cancel
+Censored
+Circuit
 Clear
+Client
+Close
+Computer
+Connect
+Connection
+Consensus
+Control
+Control Panel
+Control Password
+Control Port
+Cookie
+Debug
+Delete
+Directory
+Directory Authority
+Download
+Drive
+Email
+Email provider
+Encryption
+Error
+Executable
+Exit
+Exit enclave
+Exit relay
+Extension
+Extract
+Failed
+File
+Find
+Fingerprint
+Folder
+Forward
+General
+Guard
+Handshake
+Help
+Hidden Service
 Hide
+History
+Home
+Identity
+Ignore
+Info
+Install
+Internet
+Internet Service Provider
+IP address
+ISP
+Key
+Language
+License
+Location
 Log
 My Computer
-Computer
-Tools
-Folder
-View
-Organize
-Plugin
-Add-on
-Tab
-History
+Name
 Navigate
-Cookie
-Tor
-Tor Browser Bundle
-TBB
-Vidalia
-Torbutton
-Executable
-Stream
-IP address
-Address
+Network
+New
+Notice
+Onion Address
+Open
+Organize
+Package
+Password
+Path
+Plugin
+Port
+Process
+Program
+Proxy
+Quit
+Recommend
+Relay
+Rename
+Reset
+Save
+Search
+Security
 Server
 Service
-Package
-Archive
-Process
-Encryption
-Fingerprint
+Settings
 Signature
-Key
-Email provider
-Internet Service Provider
-ISP
-Transparent Proxy
-Proxy
-Extension
-Handshake
-Authenticate
-Port
-Relay
-Exit Relay
-Exit Enclave
-Bridge
-Guard
-Circuit
-Consensus
-Control Port
-Control
-Directory Authority
+Size
+Software
+Status
+Stream
+Tab
+Tools
+Tor
+Tor Browser Bundle
 Torify
-Hidden Service
-Onion Address
+Traffic
+Transparent proxy
+Unknown
+Update
+User manual
+View
+Warning
