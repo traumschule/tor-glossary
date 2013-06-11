@@ -1,115 +1,119 @@
-About
-Add-on
-Address
-Advanced
-Anonymize
-Application
-Apply
-Archive
-Authenticate
-Back
-Bridge
-Browse
-Cancel
-Censored
-Circuit
-Clear
-Client
-Close
-Computer
-Connect
-Connection
-Consensus
-Control
-Control Panel
-Control Password
-Control Port
-Cookie
-Debug
-Delete
-Directory
-Directory Authority
-Download
-Drive
-Email
-Email provider
-Encryption
-Error
-Executable
-Exit
-Exit enclave
-Exit relay
-Extension
-Extract
-Failed
-File
-Find
-Fingerprint
-Folder
-Forward
-General
-Guard
-Handshake
-Help
+about
+add-on
+address
+advanced
+anonymize
+application
+apply
+archive
+authenticate
+back
+bridge
+browse
+cancel
+censored
+circuit
+clear
+client
+close
+computer
+connect
+connection
+consensus
+control
+control panel
+control password
+control port
+cookie
+debug
+delete
+directory
+directory authority
+download
+drive
+email
+email provider
+encryption
+error
+executable
+exit
+exit enclave
+exit relay
+extension
+extract
+failed
+file
+find
+fingerprint
+flash proxy
+folder
+forward
+general
+guard
+handshake
+help
 Hidden Service
-Hide
-History
-Home
-Identity
-Ignore
-Info
-Install
+hide
+history
+home
+identity
+ignore
+info
+install
 Internet
 Internet Service Provider
 IP address
 ISP
-Key
-Language
-License
-Location
-Log
+key
+language
+license
+location
+log
 My Computer
-Name
-Navigate
-Network
-New
-Notice
+name
+navigate
+network
+new
+notice
+obfsproxy
 Onion Address
-Open
-Organize
-Package
-Password
-Path
-Plugin
-Port
-Process
-Program
-Proxy
-Quit
-Recommend
-Relay
-Rename
-Reset
-Save
-Search
-Security
-Server
-Service
-Settings
-Signature
-Size
-Software
-Status
-Stream
-Tab
-Tools
+open
+organize
+package
+password
+path
+Pluggable Transports Bundle
+plugin
+port
+process
+program
+proxy
+quit
+recommend
+relay
+rename
+reset
+save
+search
+security
+server
+service
+settings
+signature
+size
+software
+status
+stream
+tab
+tools
 Tor
 Tor Browser Bundle
-Torify
-Traffic
-Transparent proxy
-Unknown
-Update
-User manual
-View
-Warning
+torify
+traffic
+transparent proxy
+unknown
+update
+user manual
+Vidalia
+view
+warning
