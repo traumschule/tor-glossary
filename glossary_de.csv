@@ -869,7 +869,7 @@ break in,Noun,,Einbruch
 bridge,Noun,[Orbot] [Tor],Brücke
 bridge,Verb,[Tor],überbrücken
 bridge line,Noun,[Tor] a line with the bridge configuration,Brücken-Konfiguration
-bridge relay,Noun,[Tor],Brücken-Relais
+bridge relay,Noun,[Tor],Brücken-Relay
 bridge type,Noun,[Tor],Brücken-Typ
 broad range,,,
 broadcast,Verb,[Signal],
@@ -903,7 +903,7 @@ cannot,Verb,,kann nicht
 capability,Noun,"The capability of an attacker (in the context of an attack) is what it is able to do to achieve its aims. For example, a country's security services might have the capability to listen to telephone calls while a neighbor may have the capability to watch you from their window. To say that an attacker “has"" a capability does not mean that they will necessarily use that capability. It does mean that you should consider and prepare for the possibility.
 Source EFF.",Fähigkeit
 car documents,Noun,[Umbrella],KFZ-Brief
-carjacking,Noun,,KFZ-Dienstahl
+carjacking,Noun,,KFZ-Diebstahl
 carry,,,tragen
 case management,Noun,[GlobaLeaks],Fall-Verwaltung
 cash,,,Bargeld
@@ -1185,7 +1185,7 @@ end-user,Noun,,
 engine,,,
 ensure,,,
 enter,Verb,,eingeben
-entry guard,Noun,,Eingangswächter
+entry guard,Noun,,Einstiegs-Schutz-Server
 error,Adjective,,
 error,Noun,[Signal],Fehler
 event log,Noun,,
@@ -1286,8 +1286,8 @@ gist,Noun,"""In computing, Gist is a scientific graphics library written in C by
 giving,,,
 goal,Noun,,
 grants,,,
-guard,Noun,,Wächter
-guard relay,Noun,[The Tor Project],Wächterrelais
+guard,Noun,,Schutz
+guard relay,Noun,[The Tor Project],Schutz-Relay
 guidelines,Noun,,Richtlinien
 handshake,Noun,Signal exchange process between pieces of equipment until they are synchronized. Transmitting and receiving communication can then take place.,Handschlag
 hardware,,,
@@ -1473,7 +1473,7 @@ meta search engine,,,
 metadata,Noun,"Metadata (or ""data about data"") is everything about a piece of information, apart from the information itself. So the content of a message is not metadata, but who sent it, when, where from, and to whom, are all examples of metadata. Legal systems often protect content more than metadata: for instance, in the United States, law enforcement needs a warrant to listen to a person's telephone calls, but claims the right to obtain the list of who you have called far more easily. However, metadata can often reveal a great deal, and will often need to be protected as carefully as the data it describes. (Source EFF) [Signal]",Meta-Daten
 method,,,
 microphone,Noun,[Signal],
-middle relay,Noun,,Mittel-Relais
+middle relay,Noun,,Mittel-Relay
 migrate,Verb,[Signal],
 miniLock,Noun,,miniLock
 minimize,Verb,Minimize a window,
@@ -1530,7 +1530,7 @@ obfuscation layer,Noun,"Related to data transmission
 [Tor]",Verschleierungs-Schicht
 offline,Adjective,[Signal],
 onboarding,Noun,,Begrüßung
-once,,,ein Mai
+once,,,ein Mal
 onion service,Noun,[Tor],Onion-Dienst
 online,,,
 online,Adjective,[Signal],
